@@ -1,0 +1,11 @@
+{
+    "name": "update-resources",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+      "@tetreum/shroom": "0.7.6"
+    },
+    "author": "",
+    "license": "ISC"
+  }
