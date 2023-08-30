@@ -30,8 +30,8 @@ jobs:
 
       - name: 🔐 Configure Git
         run: |
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "wiredsnippets+github-actions[bot]@users.noreply.github.com"
 
       - name: 📤 Commit and push changes
         run: |
