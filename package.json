@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "dependencies": {
-      "@tetreum/shroom": "0.7.6"
+      "@wiredsnippets/shroom": "0.8.0"
     },
     "author": "",
     "license": "ISC"
