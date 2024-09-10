@@ -26,7 +26,7 @@ jobs:
 
       - name: 📦 Extract Habbo Resources
         run: |
-          npx wsproom dump --url https://habbo.com/gamedata/external_variables --location ./
+          npx shroom dump --url https://habbo.com/gamedata/external_variables --location ./
 
       - name: 🔐 Configure Git
         run: |
