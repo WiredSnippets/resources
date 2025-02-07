@@ -4,8 +4,8 @@
     "description": "",
     "main": "index.js",
     "dependencies": {
-      "@wiredsnippets/shroom": "0.8.4-rc.1"
+        "@wiredsnippets/shroom": "^0.8.4-rc.2"
     },
     "author": "",
     "license": "ISC"
-  }
+}
