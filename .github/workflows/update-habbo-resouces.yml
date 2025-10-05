@@ -1,4 +1,4 @@
-name: Scheduled Habbo Resources Updater
+name: Resources Updater
 
 on:
   schedule:
