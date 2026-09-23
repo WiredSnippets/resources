@@ -404,10 +404,10 @@
         <param key="offset" value="-43,73"/>
       </asset>
       <asset name="h_respect_lh_7324_4_0" mimeType="image/png">
-        <param key="offset" value="-38,69"/>
+        <param key="offset" value="-41,69"/>
       </asset>
       <asset name="h_respect_lh_7324_4_1" mimeType="image/png">
-        <param key="offset" value="-38,71"/>
+        <param key="offset" value="-41,71"/>
       </asset>
       <asset name="h_respect_lh_7324_5_0" mimeType="image/png">
         <param key="offset" value="-18,67"/>
@@ -449,7 +449,7 @@
         <param key="offset" value="-8,69"/>
       </asset>
       <asset name="h_sig_lh_7324_4_0" mimeType="image/png">
-        <param key="offset" value="-39,69"/>
+        <param key="offset" value="-41,69"/>
       </asset>
       <asset name="h_sit_bd_7324_2_0" mimeType="image/png">
         <param key="offset" value="-22,50"/>
